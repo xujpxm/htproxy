@@ -1,0 +1,80 @@
+# JetBrains
+.idea/
+*.iml
+
+# Linux 
+*.pid
+*.swp
+*.tmp
+*.tar.gz
+*.tgz
+*.zip
+*.rar
+
+# Python
+__pycache__/
+*.pyc
+00*.patch
+*$py.class
+*.class
+.python-version
+
+# Django stuff
+logs/
+*.log
+*.pot
+log.ymal
+*.orig
+migrations/
+*.mo
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# ENV
+.env
+.venv/
+venv/
+ENV/
+
+
+# Database
+*.rdb
+*.db
+*.sqlite3
+
+# Subversion
+.svn
+
+# VSCode
+.vscode/
+.editorconfig
+.eslintrc.json
+.eslintignore
+
+# OS
+.DS_Store
+
+# Ansible
+*.retry
+
+# Distribution Packaging
+.Python
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Java
+*.war
+*.jar
+*.ctxt
+target/
+
+
+# C extensions
+*.so
+
+# local history
+.history/
+
